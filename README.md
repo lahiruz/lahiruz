@@ -10,17 +10,12 @@
 
 - ⚡ Fun fact: I love to play Carrom, Badminton, Checkers, Travelling
 
-<br/>
-
 ### Connect with me:
-
 <p>
 <a href="https://www.twitter.com/lahiruzz"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://linkedin.com/in/lahirujayamanna"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://medium.com/@lsampath999"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 </p>
-
-<br/>
 
 ### Languages and Tools:
 
