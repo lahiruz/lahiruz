@@ -30,6 +30,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Lahiru's Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=lahiruz&show_icons=true&hide_border=true&theme=dark" />
+       src="https://github-readme-stats.vercel.app/api?username=lahiruz&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 </details>
 
