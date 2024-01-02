@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **lsampath999@gmail.com**
 
-- ⚡ Fun fact: I love to play Carrom, Badminton, Checkers and Travelling
+- ⚡ Fun fact: I love sports and I like to play Cricket, Carrom, Badminton, Checkers and do Travelling
 
 ### Connect with me:
 <p>
